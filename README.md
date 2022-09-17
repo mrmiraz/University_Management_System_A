@@ -50,7 +50,9 @@ Use of latest technology and clear code writing
 
 ## Run Locally
 
-Clone the project
+- Clone the project
+- extract the zip file
+- folow the steps
 
 ```bash
   git clone https://link-to-project
