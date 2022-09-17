@@ -85,13 +85,13 @@ Start backend server
   Run the project
 ```
 ## Screenshots
-![App Screenshot](https://github.com/mrmiraz/University_Management_System/blob/a949edcbd63948f563f63d8ef4a5ea5fe0a0eaa5/screen_shot/img7.PNG?text=App+Screenshot+Here)
-![App Screenshot](https://github.com/mrmiraz/University_Management_System/blob/a949edcbd63948f563f63d8ef4a5ea5fe0a0eaa5/screen_shot/img1.PNG?text=App+Screenshot+Here)
-![App Screenshot](https://github.com/mrmiraz/University_Management_System/blob/a949edcbd63948f563f63d8ef4a5ea5fe0a0eaa5/screen_shot/img2.PNG?text=App+Screenshot+Here)
-![App Screenshot](https://github.com/mrmiraz/University_Management_System/blob/a949edcbd63948f563f63d8ef4a5ea5fe0a0eaa5/screen_shot/img3.PNG?text=App+Screenshot+Here)
-![App Screenshot](https://github.com/mrmiraz/University_Management_System/blob/a949edcbd63948f563f63d8ef4a5ea5fe0a0eaa5/screen_shot/img4.PNG?text=App+Screenshot+Here)
-![App Screenshot](https://github.com/mrmiraz/University_Management_System/blob/a949edcbd63948f563f63d8ef4a5ea5fe0a0eaa5/screen_shot/img5.PNG?text=App+Screenshot+Here)
-![App Screenshot](https://github.com/mrmiraz/University_Management_System/blob/a949edcbd63948f563f63d8ef4a5ea5fe0a0eaa5/screen_shot/img6.PNG?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/mrmiraz/University_Management_System_A/blob/abc885070ff124e933bfed948aad471e30a8a07e/screen_shot/img7.PNG?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/mrmiraz/University_Management_System_A/blob/abc885070ff124e933bfed948aad471e30a8a07e/screen_shot/img1.PNG?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/mrmiraz/University_Management_System_A/blob/abc885070ff124e933bfed948aad471e30a8a07e/screen_shot/img2.PNG?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/mrmiraz/University_Management_System_A/blob/abc885070ff124e933bfed948aad471e30a8a07e/screen_shot/img3.PNG?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/mrmiraz/University_Management_System_A/blob/abc885070ff124e933bfed948aad471e30a8a07e/screen_shot/img4.PNG?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/mrmiraz/University_Management_System_A/blob/abc885070ff124e933bfed948aad471e30a8a07e/screen_shot/img5.PNG?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/mrmiraz/University_Management_System_A/blob/abc885070ff124e933bfed948aad471e30a8a07e/screen_shot/img6.PNG?text=App+Screenshot+Here)
 
 ## 🚀 About Me
 Progressive learner
